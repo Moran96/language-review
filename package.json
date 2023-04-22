@@ -1,0 +1,15 @@
+{
+  "name": "language-review",
+  "version": "1.0.0",
+  "description": "A TypeScript based library for developers to check i18n packages.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  }
+}
